@@ -1,62 +1,73 @@
 # 👋 Olá, eu sou o Vitor Fiametti
 
-🎓 Estudante e desenvolvedor apaixonado por tecnologia, programação e banco de dados.  
-💡 Tenho experiência em desenvolvimento back-end, front-end e modelagem de dados.  
-🚀 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+🎓 Estudante e desenvolvedor com foco em Análise de Dados e Desenvolvimento de Sistemas.  
+📊 Tenho experiência em manipulação, modelagem e análise de dados, além do desenvolvimento de aplicações web e banco de dados.  
+🚀 Busco oportunidades para atuar na área de tecnologia, especialmente com dados e desenvolvimento.
 
 ---
 
 ## 🧠 Sobre mim
 
-- 📚 Estudando desenvolvimento de software e estruturas avançadas de dados  
-- 🗄️ Experiência com modelagem e implementação de bancos de dados  
-- 💻 Desenvolvimento de aplicações web  
-- 🔍 Interesse em otimização de sistemas e boas práticas de programação  
+- 📊 Interesse em Análise e Engenharia de Dados  
+- 🗄️ Experiência em modelagem conceitual, lógica e física de bancos de dados  
+- 💻 Desenvolvimento de aplicações web e APIs  
+- 📈 Conhecimento em estruturas de dados e algoritmos  
+- 🔍 Foco em resolução de problemas e otimização de consultas  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Linguagens:  
-  - JavaScript / TypeScript  
-  - SQL  
-  - C  
-  - PL/SQL  
+### 📊 Dados e Banco de Dados
+- SQL
+- PL/SQL
+- MySQL
+- MongoDB
+- Modelagem de Dados
+- Álgebra Relacional
+- Normalização de Banco de Dados
 
-- Desenvolvimento Web:  
-  - React / Next.js  
-  - Node.js  
-  - TailwindCSS  
+### 💻 Desenvolvimento
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- Next.js
+- TailwindCSS
+- C
 
-- Banco de Dados:  
-  - MySQL  
-  - MongoDB  
-  - Oracle  
-
-- Ferramentas:  
-  - Git & GitHub  
-  - VS Code  
+### 🔧 Ferramentas
+- Git e GitHub
+- VS Code
+- Metodologias Ágeis
 
 ---
 
 ## 📌 Projetos em Destaque
 
 📊 Sistema de Controle Financeiro  
-➡️ Aplicação web para gerenciamento financeiro pessoal.
+➡️ Aplicação web para gerenciamento financeiro e análise de dados pessoais.
 
-🗂️ Sistemas de Banco de Dados  
-➡️ Modelagem conceitual, lógica e implementação SQL para diferentes cenários.
+🗂️ Modelagem e Implementação de Bancos de Dados  
+➡️ Desenvolvimento completo de modelos DER, scripts SQL e consultas analíticas.
 
-📈 Estruturas de Dados Avançadas  
-➡️ Implementações de algoritmos como Dijkstra e árvores balanceadas.
+📈 Algoritmos e Estruturas de Dados  
+➡️ Implementação de algoritmos como Dijkstra e estruturas balanceadas para otimização de desempenho.
+
+---
+
+## 📚 Atualmente Estudando
+
+- Análise Exploratória de Dados
+- Otimização de Consultas SQL
+- Visualização de Dados
+- Engenharia de Dados
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (coloque aqui)
-- Email: (coloque aqui)
+- LinkedIn: www.linkedin.com/in/vitor-fiametti-97b204236
+- Email: vitorjose.fiametti@gmail.com
 
 ---
-
-⭐ Sempre aberto a aprender, colaborar e desenvolver novos projetos!
